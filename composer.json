@@ -1,6 +1,7 @@
 {
     "name": "lm-commons/lmc-bootstrap-menu",
     "description": "This repository can generate nested bootstrap menu based on ul li tag. More may come later. Thanks!",
+    "license": "BSD-3-Clause",
     "keywords": [
         "laminas",
         "bootstrap",
